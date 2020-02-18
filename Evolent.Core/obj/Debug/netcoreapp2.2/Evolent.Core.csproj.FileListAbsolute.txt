@@ -1,0 +1,11 @@
+D:\REST\Evolent\Evolent.Core\bin\Debug\netcoreapp2.2\Evolent.Core.deps.json
+D:\REST\Evolent\Evolent.Core\bin\Debug\netcoreapp2.2\Evolent.Core.dll
+D:\REST\Evolent\Evolent.Core\obj\Debug\netcoreapp2.2\Evolent.Core.csprojAssemblyReference.cache
+D:\REST\Evolent\Evolent.Core\obj\Debug\netcoreapp2.2\Evolent.Core.csproj.CoreCompileInputs.cache
+D:\REST\Evolent\Evolent.Core\obj\Debug\netcoreapp2.2\Evolent.Core.AssemblyInfoInputs.cache
+D:\REST\Evolent\Evolent.Core\obj\Debug\netcoreapp2.2\Evolent.Core.AssemblyInfo.cs
+D:\REST\Evolent\Evolent.Core\bin\Debug\netcoreapp2.2\Evolent.Core.pdb
+D:\REST\Evolent\Evolent.Core\obj\Debug\netcoreapp2.2\Evolent.Core.dll
+D:\REST\Evolent\Evolent.Core\obj\Debug\netcoreapp2.2\Evolent.Core.pdb
+D:\REST\Evolent\Evolent.Core\bin\Debug\netcoreapp2.2\Evolent.Core.runtimeconfig.json
+D:\REST\Evolent\Evolent.Core\bin\Debug\netcoreapp2.2\Evolent.Core.runtimeconfig.dev.json

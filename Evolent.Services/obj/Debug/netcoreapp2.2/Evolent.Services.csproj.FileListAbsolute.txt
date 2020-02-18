@@ -1,0 +1,14 @@
+D:\REST\Evolent\Evolent.Services\bin\Debug\netcoreapp2.2\Evolent.Core.dll
+D:\REST\Evolent\Evolent.Services\obj\Debug\netcoreapp2.2\Evolent.Services.csprojAssemblyReference.cache
+D:\REST\Evolent\Evolent.Services\obj\Debug\netcoreapp2.2\Evolent.Services.csproj.CoreCompileInputs.cache
+D:\REST\Evolent\Evolent.Services\obj\Debug\netcoreapp2.2\Evolent.Services.AssemblyInfoInputs.cache
+D:\REST\Evolent\Evolent.Services\obj\Debug\netcoreapp2.2\Evolent.Services.AssemblyInfo.cs
+D:\REST\Evolent\Evolent.Services\bin\Debug\netcoreapp2.2\Evolent.Services.deps.json
+D:\REST\Evolent\Evolent.Services\bin\Debug\netcoreapp2.2\Evolent.Services.dll
+D:\REST\Evolent\Evolent.Services\bin\Debug\netcoreapp2.2\Evolent.Services.pdb
+D:\REST\Evolent\Evolent.Services\bin\Debug\netcoreapp2.2\Evolent.Core.pdb
+D:\REST\Evolent\Evolent.Services\obj\Debug\netcoreapp2.2\Evolent.Services.csproj.CopyComplete
+D:\REST\Evolent\Evolent.Services\obj\Debug\netcoreapp2.2\Evolent.Services.dll
+D:\REST\Evolent\Evolent.Services\obj\Debug\netcoreapp2.2\Evolent.Services.pdb
+D:\REST\Evolent\Evolent.Services\bin\Debug\netcoreapp2.2\Evolent.Services.runtimeconfig.json
+D:\REST\Evolent\Evolent.Services\bin\Debug\netcoreapp2.2\Evolent.Services.runtimeconfig.dev.json

@@ -1,0 +1,14 @@
+D:\REST\Evolent\Evolent.Data\bin\Debug\netcoreapp2.2\Evolent.Data.deps.json
+D:\REST\Evolent\Evolent.Data\bin\Debug\netcoreapp2.2\Evolent.Data.dll
+D:\REST\Evolent\Evolent.Data\obj\Debug\netcoreapp2.2\Evolent.Data.csprojAssemblyReference.cache
+D:\REST\Evolent\Evolent.Data\obj\Debug\netcoreapp2.2\Evolent.Data.csproj.CoreCompileInputs.cache
+D:\REST\Evolent\Evolent.Data\obj\Debug\netcoreapp2.2\Evolent.Data.AssemblyInfoInputs.cache
+D:\REST\Evolent\Evolent.Data\obj\Debug\netcoreapp2.2\Evolent.Data.AssemblyInfo.cs
+D:\REST\Evolent\Evolent.Data\bin\Debug\netcoreapp2.2\Evolent.Data.pdb
+D:\REST\Evolent\Evolent.Data\bin\Debug\netcoreapp2.2\Evolent.Core.dll
+D:\REST\Evolent\Evolent.Data\bin\Debug\netcoreapp2.2\Evolent.Core.pdb
+D:\REST\Evolent\Evolent.Data\obj\Debug\netcoreapp2.2\Evolent.Data.csproj.CopyComplete
+D:\REST\Evolent\Evolent.Data\obj\Debug\netcoreapp2.2\Evolent.Data.dll
+D:\REST\Evolent\Evolent.Data\obj\Debug\netcoreapp2.2\Evolent.Data.pdb
+D:\REST\Evolent\Evolent.Data\bin\Debug\netcoreapp2.2\Evolent.Data.runtimeconfig.json
+D:\REST\Evolent\Evolent.Data\bin\Debug\netcoreapp2.2\Evolent.Data.runtimeconfig.dev.json
