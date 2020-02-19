@@ -11,7 +11,7 @@ Update database connection string in appsetting.json
 
 4.Run following commands from your solution directory:
 dotnet ef --startup-project Evolent.Api/Evolent.Api.csproj migrations add InitialModel -p Evolent.Data/Evolent.Data.csproj
-dotnet ef --startup-project MyMusic.Api/MyMusic.Api.csproj database update
+dotnet ef --startup-project Evolent.Api/Evolent.Api.csproj database update
 
 
 
