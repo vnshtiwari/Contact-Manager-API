@@ -23,24 +23,34 @@ namespace Evolent.Services
 
         public async Task<IEnumerable<Contact>> GetAllContact()
         {
-            return await _contactRepository.ListAllAsync();
+            return await _contactRepository.ListAllActiveContact();
         }
 
         public async Task<Contact> GetContactByID(int ID)
         {
-            return await _contactRepository.GetByIdAsync(ID);
+            return await _contactRepository.GetActiveContactById(ID);
         }
 
         public async Task<int> UpdateContact( Contact contact)
         {
-            return await _contactRepository.UpdateAsync(contact);
+            var con = await _contactRepository.GetActiveContactById(contact.ContactID);
+            if (con != null)
+            {
+                return await _contactRepository.UpdateAsync(con);
+            }
+            return 0;
+            //return await _contactRepository.UpdateAsync(contact);
         }
 
         public async Task<int> DeleteContact(int ID )
         {
-            var contact=await _contactRepository.GetByIdAsync(ID);
-            contact.Status = false;
-            return await _contactRepository.UpdateAsync(contact);
+            var contact=await _contactRepository.GetActiveContactById(ID);
+            if (contact != null)
+            {
+                contact.Status = false;
+                return await _contactRepository.UpdateAsync(contact);
+            }
+            return 0;
         }
     }
 }

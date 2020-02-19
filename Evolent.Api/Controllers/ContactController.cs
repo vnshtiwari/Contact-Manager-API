@@ -57,21 +57,24 @@ namespace Evolent.Api.Controllers
         [HttpPut]
         public async Task<ActionResult<int>> Put([FromBody]Contact contact)
         {
-
-            return Ok(await _contactService.UpdateContact(contact));
+            var effectedRow = await _contactService.UpdateContact(contact);
+            if (effectedRow == 0)
+            {
+                return NotFound();
+            }
+            return Ok(effectedRow);
         }
 
         // DELETE api/<controller>/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<int>> Delete(int id)
         {
-            var contact = _contactService.GetContactByID(id);
-
-            if (contact == null)
+            var effectedRow = await _contactService.DeleteContact(id);
+            if (effectedRow == 0)
             {
                 return NotFound();
             }
-            return Ok(await _contactService.DeleteContact(id));
+            return Ok(effectedRow);
         }
     }
 }
