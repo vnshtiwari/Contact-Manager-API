@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.Api", "Evolent.Api\Evolent.Api.csproj", "{E8D67B7C-E18E-407E-8F3A-8FC4E4D9AC79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evolent.Api", "Evolent.Api\Evolent.Api.csproj", "{E8D67B7C-E18E-407E-8F3A-8FC4E4D9AC79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.Core", "Evolent.Core\Evolent.Core.csproj", "{5D8E84FE-8CB2-428D-8EFA-A391FCC09C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evolent.Core", "Evolent.Core\Evolent.Core.csproj", "{5D8E84FE-8CB2-428D-8EFA-A391FCC09C49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.Services", "Evolent.Services\Evolent.Services.csproj", "{B3B20BB7-894B-4498-A958-BC1B4BE3C519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evolent.Services", "Evolent.Services\Evolent.Services.csproj", "{B3B20BB7-894B-4498-A958-BC1B4BE3C519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.Data", "Evolent.Data\Evolent.Data.csproj", "{B933104F-480A-4612-A94B-6C4DF7EDDC66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evolent.Data", "Evolent.Data\Evolent.Data.csproj", "{B933104F-480A-4612-A94B-6C4DF7EDDC66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.Test", "Evolent.Test\Evolent.Test.csproj", "{1D8CC789-00E1-4CCA-A42C-750565EA680E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.Test", "Evolent.Test\Evolent.Test.csproj", "{662BE6AF-25E4-47F1-A98D-F3134EE50F27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{B933104F-480A-4612-A94B-6C4DF7EDDC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B933104F-480A-4612-A94B-6C4DF7EDDC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B933104F-480A-4612-A94B-6C4DF7EDDC66}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1D8CC789-00E1-4CCA-A42C-750565EA680E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D8CC789-00E1-4CCA-A42C-750565EA680E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D8CC789-00E1-4CCA-A42C-750565EA680E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D8CC789-00E1-4CCA-A42C-750565EA680E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662BE6AF-25E4-47F1-A98D-F3134EE50F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662BE6AF-25E4-47F1-A98D-F3134EE50F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662BE6AF-25E4-47F1-A98D-F3134EE50F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662BE6AF-25E4-47F1-A98D-F3134EE50F27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
